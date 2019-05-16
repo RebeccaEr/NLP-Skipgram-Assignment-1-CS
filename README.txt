@@ -826,7 +826,7 @@ http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 
 Description: This article explains how to design the skipgram. We used snippets of parts to implement the derivative function tweaking it for our case
 
-Explained: Deriving Mikolov et al.’s
+Explained: Deriving Mikolov et al.Â’s
 Negative-Sampling Word-Embedding Method
 Yoav Goldberg and Omer Levy
 Description: This helped us understanding the concepts and negative sampling and how to implement it in Skipgram
