@@ -11,8 +11,8 @@ import re
 import math
 import pickle
 
-__authors__ = ['Abhishek Singh','Ahmad El Chaar','Rebecca Erbanni']
-__emails__  = ['b00748269@essec.edu','b00739600@essec.edu','b00746038@essec.edu']
+__authors__ = ['Rebecca Erbanni','Abhishek Singh','Ahmad El Chaar']
+__emails__  = ['b00746038@essec.edu','b00748269@essec.edu','b00739600@essec.edu']
 
 
 nlp = spacy.load("en")
